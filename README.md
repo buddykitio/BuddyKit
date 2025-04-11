@@ -1,18 +1,18 @@
-# BuddyKitIO – Open-Source Embedded Learning 🚀
+# BuddyKit.IO – Open-Source Embedded Learning 🚀
 
-Welcome to **BuddyKitIO** – A hub for open-source **Embedded Systems Education**! 🦉💡
+Welcome to **BuddyKit.IO** – A hub for open-source **Embedded Systems Education**! 🦉💡
 
 ## 🎯 Our Mission
-**BuddyKitIO** is designed to provide students, hobbyists, and developers with a structured learning path in **microcontroller-based development**. Our goal is to make embedded systems **accessible, practical, and innovation-driven**.
+**BuddyKit.IO** is designed to provide students, hobbyists and developers with a structured learning path in **microcontroller-based development**. Our goal is to make embedded systems **accessible, practical and innovation-driven**.
 
-## 📌 What is BuddyKitIO?
-BuddyKitIO serves as the **main repository** for organizing different microcontroller-specific projects under the **BuddyKit** ecosystem. Each sub-project focuses on a particular platform, ensuring **clear documentation, open-source hardware, and easy-to-follow tutorials**.
+## 📌 What is BuddyKit.IO?
+BuddyKit.IO serves as the **main repository** for organizing different microcontroller-specific projects under the **BuddyKit** ecosystem. Each sub-project focuses on a particular platform, ensuring **clear documentation, open-source hardware and easy-to-follow tutorials**.
 
 ### 🔹 What You’ll Find Here:
 ✅ **Structured Learning Resources** – Tutorials, guides, and examples.  
 ✅ **Project-Specific Repositories** – Individual repositories for different microcontrollers.  
-✅ **Hardware & Firmware Open-Source Designs** – Circuit schematics, PCB layouts, and bootloader integration.  
-✅ **Community-Driven Development** – Contributions, discussions, and improvements.  
+✅ **Hardware & Firmware Open-Source Designs** – Circuit schematics, PCB layouts and bootloader integration.  
+✅ **Community-Driven Development** – Contributions, discussions and improvements.  
 
 ## 🚀 How to Get Started
 1. **Explore the project repositories** for microcontroller-specific resources.  
@@ -30,6 +30,6 @@ We welcome contributions! Whether you’re a beginner or an expert, you can help
 📌 **Website**: [https://buddykit.io]  
 📌 **Contact**: [buddykit@sakthicontroller.com]  
 
-🔗 **Let’s Learn, Build, and Innovate together!** ✨
+🔗 **Let’s Learn, Build and Innovate together!** ✨
 
-#BuddyKitIO #EmbeddedSystems #LearnBuildInnovate
+#BuddyKit.IO #EmbeddedSystems #LearnBuildInnovate
